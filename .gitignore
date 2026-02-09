@@ -35,8 +35,6 @@ db.sqlite3-journal
 /media/
 
 # Environment variables
-.env
-.env.local
 
 # IDE
 .vscode/
@@ -51,3 +49,5 @@ Thumbs.db
 
 # WeasyPrint cache
 .weasyprint-cache/
+config.bat
+node_modules
